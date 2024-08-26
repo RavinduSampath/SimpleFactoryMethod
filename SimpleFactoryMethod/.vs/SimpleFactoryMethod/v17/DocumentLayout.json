@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\SimpleFactoryMethod\\SimpleFactoryMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D74C3DC-4FC2-4B38-B0C3-2AB6F8A64748}|SimpleFactoryMethod\\SimpleFactoryMethod.csproj|e:\\github\\simplefactorymethod\\simplefactorymethod\\simplefactorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D74C3DC-4FC2-4B38-B0C3-2AB6F8A64748}|SimpleFactoryMethod\\SimpleFactoryMethod.csproj|solutionrelative:simplefactorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D74C3DC-4FC2-4B38-B0C3-2AB6F8A64748}|SimpleFactoryMethod\\SimpleFactoryMethod.csproj|e:\\github\\simplefactorymethod\\simplefactorymethod\\simplefactorymethod\\simpleburgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D74C3DC-4FC2-4B38-B0C3-2AB6F8A64748}|SimpleFactoryMethod\\SimpleFactoryMethod.csproj|solutionrelative:simplefactorymethod\\simpleburgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D74C3DC-4FC2-4B38-B0C3-2AB6F8A64748}|SimpleFactoryMethod\\SimpleFactoryMethod.csproj|e:\\github\\simplefactorymethod\\simplefactorymethod\\simplefactorymethod\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D74C3DC-4FC2-4B38-B0C3-2AB6F8A64748}|SimpleFactoryMethod\\SimpleFactoryMethod.csproj|solutionrelative:simplefactorymethod\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D74C3DC-4FC2-4B38-B0C3-2AB6F8A64748}|SimpleFactoryMethod\\SimpleFactoryMethod.csproj|e:\\github\\simplefactorymethod\\simplefactorymethod\\simplefactorymethod\\veggieburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D74C3DC-4FC2-4B38-B0C3-2AB6F8A64748}|SimpleFactoryMethod\\SimpleFactoryMethod.csproj|solutionrelative:simplefactorymethod\\veggieburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D74C3DC-4FC2-4B38-B0C3-2AB6F8A64748}|SimpleFactoryMethod\\SimpleFactoryMethod.csproj|e:\\github\\simplefactorymethod\\simplefactorymethod\\simplefactorymethod\\beefburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D74C3DC-4FC2-4B38-B0C3-2AB6F8A64748}|SimpleFactoryMethod\\SimpleFactoryMethod.csproj|solutionrelative:simplefactorymethod\\beefburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D74C3DC-4FC2-4B38-B0C3-2AB6F8A64748}|SimpleFactoryMethod\\SimpleFactoryMethod.csproj|e:\\github\\simplefactorymethod\\simplefactorymethod\\simplefactorymethod\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D74C3DC-4FC2-4B38-B0C3-2AB6F8A64748}|SimpleFactoryMethod\\SimpleFactoryMethod.csproj|solutionrelative:simplefactorymethod\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleBurgerFactory.cs",
+              "DocumentMoniker": "E:\\GitHub\\SimpleFactoryMethod\\SimpleFactoryMethod\\SimpleFactoryMethod\\SimpleBurgerFactory.cs",
+              "RelativeDocumentMoniker": "SimpleFactoryMethod\\SimpleBurgerFactory.cs",
+              "ToolTip": "E:\\GitHub\\SimpleFactoryMethod\\SimpleFactoryMethod\\SimpleFactoryMethod\\SimpleBurgerFactory.cs*",
+              "RelativeToolTip": "SimpleFactoryMethod\\SimpleBurgerFactory.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:25:56.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "E:\\GitHub\\SimpleFactoryMethod\\SimpleFactoryMethod\\SimpleFactoryMethod\\Restaurant.cs",
+              "RelativeDocumentMoniker": "SimpleFactoryMethod\\Restaurant.cs",
+              "ToolTip": "E:\\GitHub\\SimpleFactoryMethod\\SimpleFactoryMethod\\SimpleFactoryMethod\\Restaurant.cs*",
+              "RelativeToolTip": "SimpleFactoryMethod\\Restaurant.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:25:12.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VeggieBurger.cs",
+              "DocumentMoniker": "E:\\GitHub\\SimpleFactoryMethod\\SimpleFactoryMethod\\SimpleFactoryMethod\\VeggieBurger.cs",
+              "RelativeDocumentMoniker": "SimpleFactoryMethod\\VeggieBurger.cs",
+              "ToolTip": "E:\\GitHub\\SimpleFactoryMethod\\SimpleFactoryMethod\\SimpleFactoryMethod\\VeggieBurger.cs*",
+              "RelativeToolTip": "SimpleFactoryMethod\\VeggieBurger.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:24:36.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BeefBurger.cs",
+              "DocumentMoniker": "E:\\GitHub\\SimpleFactoryMethod\\SimpleFactoryMethod\\SimpleFactoryMethod\\BeefBurger.cs",
+              "RelativeDocumentMoniker": "SimpleFactoryMethod\\BeefBurger.cs",
+              "ToolTip": "E:\\GitHub\\SimpleFactoryMethod\\SimpleFactoryMethod\\SimpleFactoryMethod\\BeefBurger.cs*",
+              "RelativeToolTip": "SimpleFactoryMethod\\BeefBurger.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:24:09.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Burger.cs",
+              "DocumentMoniker": "E:\\GitHub\\SimpleFactoryMethod\\SimpleFactoryMethod\\SimpleFactoryMethod\\Burger.cs",
+              "RelativeDocumentMoniker": "SimpleFactoryMethod\\Burger.cs",
+              "ToolTip": "E:\\GitHub\\SimpleFactoryMethod\\SimpleFactoryMethod\\SimpleFactoryMethod\\Burger.cs*",
+              "RelativeToolTip": "SimpleFactoryMethod\\Burger.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:23:43.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\SimpleFactoryMethod\\SimpleFactoryMethod\\SimpleFactoryMethod\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleFactoryMethod\\Program.cs",
+              "ToolTip": "E:\\GitHub\\SimpleFactoryMethod\\SimpleFactoryMethod\\SimpleFactoryMethod\\Program.cs*",
+              "RelativeToolTip": "SimpleFactoryMethod\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:23:05.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

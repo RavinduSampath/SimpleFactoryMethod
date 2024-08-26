@@ -1,0 +1,14 @@
+E:\GitHub\SimpleFactoryMethod\SimpleFactoryMethod\SimpleFactoryMethod\bin\Debug\net8.0\SimpleFactoryMethod.exe
+E:\GitHub\SimpleFactoryMethod\SimpleFactoryMethod\SimpleFactoryMethod\bin\Debug\net8.0\SimpleFactoryMethod.deps.json
+E:\GitHub\SimpleFactoryMethod\SimpleFactoryMethod\SimpleFactoryMethod\bin\Debug\net8.0\SimpleFactoryMethod.runtimeconfig.json
+E:\GitHub\SimpleFactoryMethod\SimpleFactoryMethod\SimpleFactoryMethod\bin\Debug\net8.0\SimpleFactoryMethod.dll
+E:\GitHub\SimpleFactoryMethod\SimpleFactoryMethod\SimpleFactoryMethod\bin\Debug\net8.0\SimpleFactoryMethod.pdb
+E:\GitHub\SimpleFactoryMethod\SimpleFactoryMethod\SimpleFactoryMethod\obj\Debug\net8.0\SimpleFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\SimpleFactoryMethod\SimpleFactoryMethod\SimpleFactoryMethod\obj\Debug\net8.0\SimpleFactoryMethod.AssemblyInfoInputs.cache
+E:\GitHub\SimpleFactoryMethod\SimpleFactoryMethod\SimpleFactoryMethod\obj\Debug\net8.0\SimpleFactoryMethod.AssemblyInfo.cs
+E:\GitHub\SimpleFactoryMethod\SimpleFactoryMethod\SimpleFactoryMethod\obj\Debug\net8.0\SimpleFactoryMethod.csproj.CoreCompileInputs.cache
+E:\GitHub\SimpleFactoryMethod\SimpleFactoryMethod\SimpleFactoryMethod\obj\Debug\net8.0\SimpleFactoryMethod.dll
+E:\GitHub\SimpleFactoryMethod\SimpleFactoryMethod\SimpleFactoryMethod\obj\Debug\net8.0\refint\SimpleFactoryMethod.dll
+E:\GitHub\SimpleFactoryMethod\SimpleFactoryMethod\SimpleFactoryMethod\obj\Debug\net8.0\SimpleFactoryMethod.pdb
+E:\GitHub\SimpleFactoryMethod\SimpleFactoryMethod\SimpleFactoryMethod\obj\Debug\net8.0\SimpleFactoryMethod.genruntimeconfig.cache
+E:\GitHub\SimpleFactoryMethod\SimpleFactoryMethod\SimpleFactoryMethod\obj\Debug\net8.0\ref\SimpleFactoryMethod.dll
